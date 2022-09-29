@@ -1,0 +1,14 @@
+{
+  "name": "porridge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.2",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "ttypescript": "^1.5.13"
+  },
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
